@@ -2,10 +2,15 @@ import { gql } from '@apollo/client';
 
 
 // put in username, email, saved books (bookId, authors, image, link, description, title), 
-export const QUERY_PROFILES = gql`
+export const GET_Me = gql`
   query UserBooks {
     profiles {
-      bookId
+      bookId,
+      authors,
+      image,
+      link,
+      description,
+      title
     }
   }
 `;
