@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa7988ca.chunk.css",
-    "main.js": "/static/js/main.9f96fe01.chunk.js",
-    "main.js.map": "/static/js/main.9f96fe01.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4d8e9306.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4d8e9306.js.map",
-    "static/css/2.d3561d95.chunk.css": "/static/css/2.d3561d95.chunk.css",
-    "static/js/2.6bf69da7.chunk.js": "/static/js/2.6bf69da7.chunk.js",
-    "static/js/2.6bf69da7.chunk.js.map": "/static/js/2.6bf69da7.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.d3561d95.chunk.css.map": "/static/css/2.d3561d95.chunk.css.map",
-    "static/css/main.fa7988ca.chunk.css.map": "/static/css/main.fa7988ca.chunk.css.map",
-    "static/js/2.6bf69da7.chunk.js.LICENSE.txt": "/static/js/2.6bf69da7.chunk.js.LICENSE.txt",
-    "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.be810be3.woff2"
+    "main.css": "/react-portfolio/static/css/main.61403559.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.6f6efdc6.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.6f6efdc6.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.cc05fc29.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.cc05fc29.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/react-portfolio/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.85414b79.chunk.js": "/react-portfolio/static/js/2.85414b79.chunk.js",
+    "static/js/2.85414b79.chunk.js.map": "/react-portfolio/static/js/2.85414b79.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/react-portfolio/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.61403559.chunk.css.map": "/react-portfolio/static/css/main.61403559.chunk.css.map",
+    "static/js/2.85414b79.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.85414b79.chunk.js.LICENSE.txt",
+    "static/media/fitness-track.ca86a82f.png": "/react-portfolio/static/media/fitness-track.ca86a82f.png",
+    "static/media/home.08827eea.PNG": "/react-portfolio/static/media/home.08827eea.PNG",
+    "static/media/pfp.55692b6c.jpg": "/react-portfolio/static/media/pfp.55692b6c.jpg",
+    "static/media/screenshot.bce3920c.png": "/react-portfolio/static/media/screenshot.bce3920c.png",
+    "static/media/takin-notes.df5bdfb6.png": "/react-portfolio/static/media/takin-notes.df5bdfb6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d8e9306.js",
-    "static/css/2.d3561d95.chunk.css",
-    "static/js/2.6bf69da7.chunk.js",
-    "static/css/main.fa7988ca.chunk.css",
-    "static/js/main.9f96fe01.chunk.js"
+    "static/js/runtime-main.cc05fc29.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.85414b79.chunk.js",
+    "static/css/main.61403559.chunk.css",
+    "static/js/main.6f6efdc6.chunk.js"
   ]
 }
